@@ -1,7 +1,4 @@
-#
-Here's a GitHub README description for your project "Day-05-Hover-Interactions":
-
-Day-05-Hover-Interactions
+#Day-05-Hover-Interactions
 This project showcases a collection of interactive cards with hover effects, designed to enhance user engagement and create a visually appealing experience. Each card represents a different travel destination, complete with an enticing description and a call-to-action button.
 
 Features
